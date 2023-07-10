@@ -1,0 +1,5 @@
+transformers
+wandb
+sentencepiece
+datasets
+huggingface_hub
